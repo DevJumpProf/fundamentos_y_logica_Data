@@ -1,0 +1,18 @@
+Algoritmo comoVestirse
+
+	Escribir "Qué temperatura hace?"
+	Leer temperaturaActual
+	
+	Si (temperaturaActual <= 10) Entonces
+		Mostrar "Salí con ropa térmica"
+			
+		SiNo 
+			Si (temperaturaActual > 10 y temperaturaActual <= 20) Entonces
+				Mostrar "Salí con una campera"
+			SiNo
+				
+				Mostrar "El día está lindo, no necesitas abrigo"
+			FinSi
+	FinSi
+	
+FinAlgoritmo
