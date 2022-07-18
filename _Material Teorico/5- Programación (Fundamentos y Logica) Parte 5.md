@@ -273,8 +273,8 @@ E)el numero lo guardo en la variable nUser
 G)
 
 si el número(nAzar) no es igual entrará al while
-si el numero (nAzar) es mayor : Mostrar "muy bajo"
-si el numero (nAzar) es menor : Mostrar "muy alto"
+si el numero (nAzar) es mayor : Mostrar "tu numero muy bajo"
+si el numero (nAzar) es menor : Mostrar "tu numero muy alto"
 
 
 H) Restamos 1 intento 
