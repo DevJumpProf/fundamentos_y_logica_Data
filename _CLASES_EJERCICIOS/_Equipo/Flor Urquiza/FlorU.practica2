@@ -1,0 +1,12 @@
+Algoritmo tarea
+	Escribir "Buenas noches, me indicas tu edad para aprobar tu ingreso: "
+	
+	leer edad
+	
+	Si (edad >18) 
+		Entonces Escribir "Usted puede ingresar"
+		Sino Escribir "No puede ingresar por ser menor"
+	FinSi
+	
+	
+FinAlgoritmo
