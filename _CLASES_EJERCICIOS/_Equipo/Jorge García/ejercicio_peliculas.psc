@@ -8,15 +8,15 @@ Algoritmo ejercicio_peliculas
 	Leer opcion
 	Segun opcion  Hacer
 		1:
-			Escribir 'Te recomienda esa película de acción: John Wick 1'
+			Escribir 'Te recomienda esta película de acción: John Wick 1'
 		2:
-			Escribir 'Te recomienda esa película de terror: El resplandor'
+			Escribir 'Te recomienda esta película de terror: El resplandor'
 		3:
-			Escribir 'Te recomienda esa película de comedia: Superbad'
+			Escribir 'Te recomienda esta película de comedia: Superbad'
 		4:
-			Escribir 'Te recomienda esa película de drama: Joker'
+			Escribir 'Te recomienda esta película de drama: Joker'
 		5:
-			Escribir 'Te recomienda esa película de suspenso: The Game'
+			Escribir 'Te recomienda esta película de suspenso: The Game'
 		De Otro Modo:
 			Escribir 'Género inexistente'
 	FinSegun
