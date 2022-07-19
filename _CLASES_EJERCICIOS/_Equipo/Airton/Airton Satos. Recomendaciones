@@ -1,0 +1,19 @@
+Algoritmo recomendaciones
+	Escribir "Qué te gustaría que te recomiende?"
+	Escribir "1. Un libro"
+	Escribir "2. Una pelicula"
+	Escribir "3. Un juego"
+	Leer nRecomendacion
+	
+	Segun nRecomendacion
+		1: 
+			Mostrar "Te recomiendo Estrella Distante"
+		2: 
+			Mostrar "Te recomiendo Everything, everywhere, all at once"
+		3: 
+			Mostrar "Te recomiendo Celeste Farewell"
+			
+		De Otro Modo:
+			Mostrar "Solo se admiten valores del 1 al 3"
+	FinSegun
+FinAlgoritmo

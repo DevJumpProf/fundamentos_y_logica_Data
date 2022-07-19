@@ -1,0 +1,18 @@
+Algoritmo peliculas
+	Escribir "Escriba un género de películas"
+	Leer genero
+	
+	Segun genero
+		"Romance": Mostrar "Te recomiendo Como agua para chocolate"
+		"Accion": Mostrar "Te recomiendo Matrix"
+		"Comedia": Mostrar "Te recomiendo El crimen ferpecto"
+		"Terror": Mostrar "Te recomiendo Shutter"
+		"Drama": Mostrar "Te recomiendo La Pianista"
+		"Suspenso": Mostrar "Te recomiendo Nocturnal Animals"
+		"Documental": Mostrar "Te recomiendo Cowspiracy"
+		"Animacion": Mostrar "Te recomiendo Ponyo en el Acantilado"
+		De Otro Modo:
+			Mostrar "Ups, no tengo nada para recomendarte o no conozco ese género :("
+	FinSegun
+	
+FinAlgoritmo
