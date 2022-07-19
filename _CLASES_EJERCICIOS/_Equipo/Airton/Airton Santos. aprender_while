@@ -1,0 +1,34 @@
+Algoritmo aprender_while
+	
+	nAzar = Aleatorio(1,10)
+	intentos = 3
+	
+	Escribir "Ingresa un numero del 1 al 10"
+	Leer nUser
+	
+	Mientras intentos > 1  y nAzar <> nUser Hacer
+		
+		Si (nAzar < nUser) Entonces
+			Mostrar "Es muy alto"
+			
+		SiNo
+			Mostrar "Es muy bajo"
+			
+		FinSi
+		
+		intentos = intentos -1
+		
+		Escribir "Te quedan ", intentos " intentos"
+		Leer nUser
+	
+		
+	FinMientras
+	
+	Si (nAzar == nUser) Entonces
+		Mostrar "Ganaste! El número era ", nAzar
+		
+	SiNo
+		Mostrar "Perdiste, el número era ", nAzar 
+	FinSi
+	
+FinAlgoritmo
