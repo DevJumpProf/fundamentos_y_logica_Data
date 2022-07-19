@@ -1,0 +1,41 @@
+Algoritmo aprender_while
+	numAzar <- Aleatorio(1, 10)
+	intentos = 3
+	
+	
+	Mostrar "Adivina un número del 1 al 10, tienes ", intentos
+	
+	Escribir  "Escriba un número: "
+	leer nUser
+	
+	Si (numAzar <> nUser) Entonces
+		
+		Mientras (numAzar <> nUser y intentos > 1)  Hacer
+			
+			Si nUser > numAzar Entonces
+				Mostrar "El número ", nUser, " que elegiste es muy alto"
+			SiNo
+				Mostrar  "El número ", nUser, " que elegiste es muy bajo"
+			Fin Si
+			
+			intentos = intentos - 1
+			
+			Mostrar "Te quedan ", intentos, " intentos"
+			
+			Escribir "Escribe otro número"
+			Leer  nUser
+			
+		Fin Mientras
+		
+		Si nUser = numAzar Entonces
+			Mostrar "Acertaste"
+		SiNo
+			Mostrar  "Te quedastes sin intentos"
+		Fin Si
+		
+	SiNo
+		Mostrar "Acertaste"
+	Fin Si
+	
+	
+FinAlgoritmo
