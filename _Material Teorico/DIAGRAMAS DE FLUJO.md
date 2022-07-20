@@ -1,4 +1,4 @@
-<img  src='./img/logo.png'  height='70px'>
+<img  src='../img/logo.png'  height='70px'>
 
 # Programación (Fundamentos y Logica)
 # Lección 2:
@@ -31,7 +31,7 @@ Un diagrama de flujo debe proporcionar una información clara, ordenada y concis
 
 Por lo dicho anteriormente, podríamos decir que: "Un diagrama de flujo es una representación gráfica o simbólica de un proceso".
 
-<img  src='./img/que-es-un-diagrama-de-flujo.jpg'  height='500px'>
+<img  src='../img/que-es-un-diagrama-de-flujo.jpg'  height='500px'>
 
 El proceso o pasos que representa el diagrama de flujo puede ser de cualquier tipo, desde los pasos para freír un huevo, como luego veremos, hasta los pasos para realizar un enorme programa informático.
 
@@ -68,7 +68,7 @@ Ahora que ya sabemos todos los pasos, mediante el algoritmo, podemos hacer un es
 
 Este esquema será el Diagrama de Flujo.
 
-<img  src='./img/flujo-cocinar-huevo.jpg'  height='300px'>
+<img  src='../img/flujo-cocinar-huevo.jpg'  height='300px'>
 
 Si uno tiene experiencia puede prescindir del algoritmo escrito pero siempre tendremos que tenerlo en mente para hacer el diagrama de flujo sin equivocarnos.
 
@@ -98,7 +98,7 @@ Una vez que tenemos nuestro diagrama de flujo solo tendremos que conocer las ór
 
 Los símbolos que se usan para realizar los diagramas de flujo son lo siguientes:
 
-<img  src='./img/simbolos-diagramas-de-flujo.jpg'  height='500px'>
+<img  src='../img/simbolos-diagramas-de-flujo.jpg'  height='500px'>
 
  En el Símbolo de decisión puede tomar los valores de salida SI o NO o también VERDADERO o FALSO.
 
@@ -114,7 +114,7 @@ Queremos hacer un programa informático que nos sume dos número y nos de el res
 
 Solución del ejemplo:
 
-<img  src='./img/diagrama-flujo-numeros.jpeg'  height='500px'>
+<img  src='../img/diagrama-flujo-numeros.jpeg'  height='500px'>
 
 El símbolo de resultado es un símbolo usado en los diagramas para soluciones con el ordenador.
 
@@ -131,19 +131,19 @@ Otro ejemplo de un diagrama de flujo para una operación sencilla.
 Imaginemos que tenemos una lámpara o bombilla y queremos hacer el diagrama de flujo para saber que hacer cuando la lámpara no funciona.
 
 
-<img  src='./img/diagrama-de-flujo.jpg'  height='300px'>
+<img  src='../img/diagrama-de-flujo.jpg'  height='300px'>
 
 ¿Hacemos otro?
 
 Bueno vamos hacer uno que nos muestre el resultado del área de un triángulo en pantalla.
 
-<img  src='./img/diagrama-flujo-area.jpg'  height='300px'>
+<img  src='../img/diagrama-flujo-area.jpg'  height='300px'>
 
 Como ves, en este ni siquiera hemos puesto las operaciones dentro de los símbolos, ya que con la forma del símbolo ya se entiende.
 
 No hemos usado mucho el símbolo de tomar un decisión, por eso vamos hacer uno en el que nos diga si el número es par o impar:
 
-<img  src='./img/diagrama-flujo-par-impar.jpg'  height='300px'>
+<img  src='../img/diagrama-flujo-par-impar.jpg'  height='300px'>
 
 La palabra "mod" significa dividir, por lo tanto "mod 2" es dividir entre 2.
 
@@ -175,16 +175,16 @@ Intenta comprenderlo y ver lo que hace.
 
 Puedes realizar mentalmente el diagrama para el número 0 y verás como lo acabas entendiendo.
 
-<img  src='./img/diagrama-flujo-suma-numeros.jpg'  height='300px'>
+<img  src='../img/diagrama-flujo-suma-numeros.jpg'  height='300px'>
 
 ## Símbolos comunes de los diagramas de flujo
 
 Estas figuras y símbolos para diagramas de flujo son algunos de los más comunes que encontrarás en la mayoría de los diagramas de flujo.
 
-<img  src='./img/simbolos1.jpg'  height='300px'>
+<img  src='../img/simbolos1.jpg'  height='300px'>
 
-<img  src='./img/simbolos2.jpg'  height='300px'>
+<img  src='../img/simbolos2.jpg'  height='300px'>
 
-<img  src='./img/simbolos3.jpg'  height='300px'>
+<img  src='../img/simbolos3.jpg'  height='300px'>
 
-<img  src='./img/simbolos4.jpg'  height='250px'>
+<img  src='../img/simbolos4.jpg'  height='250px'>

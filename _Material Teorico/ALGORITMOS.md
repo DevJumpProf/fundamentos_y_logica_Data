@@ -1,4 +1,4 @@
-<img  src='./img/logo.png'  height='70px'>
+<img  src='../img/logo.png'  height='70px'>
 
 # Programación (Fundamentos y Logica)
 # Lección 7:
@@ -20,7 +20,7 @@
 
 Un algoritmo es una serie de reglas que posibilita obtener un resultado mediante una sucesión de pasos. Los algoritmos se pueden expresar de diversas formas, eso incluye diagramas de flujo, el lenguaje de programación, el lenguaje natural, el pseudocódigo, entre otros.
 
-<img  src='./img/Características.png'  height='150px'>
+<img  src='../img/Características.png'  height='150px'>
 
 A pesar de que no existe un consenso para definir formalmente lo que es un algoritmo, este puede ser explicado como un grupo finito de operaciones que son organizadas de una manera ordenada y lógica, mediante la que es posible la solución de un problema determinado.
 
