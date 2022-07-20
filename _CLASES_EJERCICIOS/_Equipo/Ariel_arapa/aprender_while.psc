@@ -14,6 +14,7 @@ Algoritmo aprender_while
 			SiNo
 				Mostrar "muy alto numero ingresado"
 			FinSi	
+			
 			intentos = intentos - 1
 			Mostrar "Te quedan ", intentos, " intentos"
 			Escribir "Ingrese otro numero: "
@@ -30,7 +31,5 @@ Algoritmo aprender_while
 	SiNo 
 		Mostrar "Vuelva intentarlo, ingrese un numero entre 1 a 10"
 	FinSi
-
-	
 
 FinAlgoritmo
